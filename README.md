@@ -58,3 +58,9 @@ Fund owned_carbon = sum(owned_carbon)
 Check the computations and fill in the rest. What would make the test easier? What are some other cases that may be useful to test?
 
 
+### Open in Colab
+
+[![Open 'Query Optimization' In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ginobaltazar7/esg-datachallenges/blob/main/query_optimization/YvesQO.ipynb)
+
+[![Open 'Query Optimization' In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ginobaltazar7/esg-datachallenges/blob/main/carbon_calculation/MockYves2.ipynb)
+
